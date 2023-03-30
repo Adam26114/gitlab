@@ -1,0 +1,29 @@
+
+
+=> Git Version Check
+git --version
+git Version
+
+
+=> Git ?
+verson control system(free and opne source)
+system that's recording every changes to our files
+recall any specific version
+it's allows many people to easlily collaborate a project
+
+
+=> Git vs Github/GitLab
+
+Git - git is a tool for manage github/lab repositories (can use git without/lab) Github/Lab - place with the source code exits(remotely and mange by git)
+    - tore version in project history
+Github / lab - place with the source code exits(remotely and mange bygit)
+             - online service that houts our project
+             - share our code to other deelopers
+             - download / collaborate
+
+
+
+=> Important Notes
+Git -  Create Repository(Every Poject)
+    -  Create Branch (Every Feature)
+    -  No Need to 
