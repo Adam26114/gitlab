@@ -1,0 +1,16 @@
+git
+
+git init lesson2
+linux = ls
+windows = dir
+
+cd lesson2
+ls 
+ls -la
+
+=>default branch
+git config --global init.defaultbranch main
+git status
+
+git branch -m main
+git status
