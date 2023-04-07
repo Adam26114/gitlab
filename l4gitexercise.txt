@@ -1,0 +1,106 @@
+git init lesson2 
+linux = ls
+window = dir
+
+cd lesson2 
+ls 
+ls -ls 
+
+=>default branch 
+git config --global init.defaultbranch main 
+git status 
+
+git branch -m main 
+git status 
+
+bim cars.txt 
+i 
+Toyoto Brand
+suzuki 
+mazda 
+force 
+
+programming.txt 
+git status 
+
+=>Go source folder 
+for windows = explore .
+for linux = edg-open .
+
+=>Add all files to staging area 
+git add -A 
+git status 
+
+git commit -m "adding cars and programming files"
+
+git status
+git log 
+
+=>Create New branch 
+git branch new-feature1 
+git branch new-feature2
+
+git branch
+git status 
+git log
+
+=>Change Branch 
+git checkout new-feature1 
+git status 
+git log 
+
+for linu = vim phones.txt
+
+git add phones.txt
+git status
+
+git add cars.txt 
+git status 
+
+git commit -m "phone added and cars modifying"
+git status 
+git log
+
+dir 
+
+git checkout new-feature2
+git status 
+linux = ls 
+dir 
+
+git checkout main 
+git status 
+linux = ls 
+dir 
+
+git checkout new-feature1 
+git status 
+linux = ls 
+dir 
+
+git log
+git log --all --oneline  (--all mean all branks , --oneline mean all of repository);
+
+git checkout main 
+cat cars.txt 
+cat programming.txt 
+
+
+git merge new-feature1  (add new-feature1 into the main)
+git status 
+
+for linx = ls 
+for window = dir
+cat cars.txt 
+cat programming.txt 
+cat phones.txt 
+
+git log
+
+ls
+
+cat cars.txt
+cat programming.txt
+
+
+6GT

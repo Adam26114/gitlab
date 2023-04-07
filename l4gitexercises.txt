@@ -14,3 +14,86 @@ git status
 
 git branch -m main
 git status
+
+
+vim cars.txt
+i
+
+esc > :wq
+
+git status
+
+vim programing.txt
+i
+
+esc > :wq
+vim programing.txt
+
+git status
+
+=>Go source folder
+
+for windows = explore .
+for linux = xdg-open .
+
+
+=> Add all files to staging Area
+git add -A
+
+git status
+
+git commit -m "adding cars and programing files"
+
+git status
+
+git log
+
+=> Create New branch
+
+git branch new-feature1
+git branch new-feature2
+
+git branch
+
+git status
+
+git log
+
+=> Change Branch
+git checkout new-feature1
+
+git status
+
+git log
+
+vim phones.txt
+
+git add phones.txt
+
+git status
+
+git add cars.txt
+
+git status
+
+
+git commit -m "phones added cars modifying"
+
+git status
+
+git log
+
+linex = ls
+window = dir
+
+git status
+
+linux = ls
+windows = dir
+
+git checkout main
+
+git status
+
+linux = ls
+windows = dir
