@@ -1,4 +1,4 @@
-git init lesson7
+l9stashs.txtgit init lesson7
 cd lesson7
 
 git status
